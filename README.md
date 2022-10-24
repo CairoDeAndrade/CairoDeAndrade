@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CairoDeAndrade
+- 👋 Hi, I’m Cairo Augusto de Andrade.
 
 - 👀 I'm interested in the technology area, especially in Programming and also being able to share this knowledge with people.
 - 🌱 I’m currently learning Python, SQL and HTML/CSS.
