@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Cairo Augusto de Andrade.
+- 👋 Olá!! Sou Cairo Augusto de Andrade.
 
-- 👀 I'm interested in the technology area, especially in Programming and also being able to share this knowledge with people.
-- 🌱 I’m currently learning Java, Python, SQL and HTML/CSS.
-- 📫 How to reach me:
-     Mail: cairo.augusto.andrade@gmail.com
-     Linkedin: https://www.linkedin.com/in/cairodeandrade/
+- 📖 Estou atualmente aprendento Java, Python, SQL, JavaScript e HTML/CSS.
 
-<!---
-CairoDeAndrade/CairoDeAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
