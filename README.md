@@ -1,6 +1,6 @@
 ## 👋 Olá!! Sou Cairo Augusto de Andrade.
 
-- 📖 Estou atualmente aprendento Java.
+- 📖 Estou atualmente aprendento Java ☕.
 
 <div align="center">
   <a href="https://github.com/CairoDeAndrade">
