@@ -1,6 +1,6 @@
-## Olá!! Sou Cairo Augusto de Andrade.
+## Hi! I am Cairo augusto de Andrade. 
 
-- Estou atualmente aprendento Java ☕.
+- ☕ I am currently learning Java.
 
 <div align="center">
   <a href="https://github.com/CairoDeAndrade">
@@ -10,7 +10,7 @@
   
 ##
   
-- Tecnologias
+- Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Cairo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cairo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
