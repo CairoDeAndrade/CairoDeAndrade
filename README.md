@@ -1,6 +1,6 @@
 ## Hi! I am Cairo augusto de Andrade. 
 
-- ☕ I am currently learning Java.
+- I am currently learning Java ☕.
 
 <div align="center">
   <a href="https://github.com/CairoDeAndrade">
