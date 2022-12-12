@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cairo Augusto de Andrade</h1>
 
-- 🌱 I’m currently learning **Java ☕.**
+- I’m currently learning **Java ☕.**
 
 ##
 
