@@ -4,8 +4,6 @@
 
 ##
 
-<p><img align="left" height="160em" src="https://github-readme-stats-CairoDeAndrade.vercel.app/api/top-langs?username=cairodeandrade&show_icons=true&locale=en&layout=compact" alt="cairodeandrade" /></p> 
-
 <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cairodeandrade&" alt="cairodeandrade" /></p>
 
 ##
