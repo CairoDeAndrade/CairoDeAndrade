@@ -2,7 +2,7 @@
 
 - I’m currently learning **Java ☕.**
 
-##
+
 <p><img align="left" src="https://github-cairo-stats.vercel.app/api/top-langs?username=cairodeandrade&show_icons=true&locale=en&layout=compact&theme=dark" alt="cairodeandrade" /></p>
 
 <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cairodeandrade&theme=dark" alt="cairodeandrade" /></p>
