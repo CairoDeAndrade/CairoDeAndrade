@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cairodeandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cairodeandrade" height="30" width="40" /></a>
 <a href="https://instagram.com/cairo_guto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cairo_guto" height="30" width="40" /></a>
-<a href="mailto:cairo.augusto.andrade@gmail.com" target="blank"><img align="center" src="https://github.com/CairoDeAndrade/portifolio/blob/main/media/mail.png?raw=true" alt="cairo_guto" height="40" width="40" /></a>
+<a href="mailto:cairo.augusto.andrade@gmail.com" target="blank"><img align="center" src="https://github.com/CairoDeAndrade/django-blog/blob/master/_Django-Blog/media/photos/2022/09/mail.png" alt="cairo_guto" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
