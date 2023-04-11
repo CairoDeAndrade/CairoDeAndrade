@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cairo Augusto de Andrade</h1>
 
 - I’m currently learning **Java ☕**, specifically **Web Services REST** with **Spring**.
+- I'm taking a higher course in Systems Analysis and Development 🖥️.
 
 
 <p><img align="left" src="https://github-cairo-stats.vercel.app/api/top-langs?username=cairodeandrade&show_icons=true&locale=en&layout=compact&theme=dark" alt="cairodeandrade" /></p>
